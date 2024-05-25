@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Silicon_NewsletterProvider", "Silicon_NewsletterProvider\Silicon_NewsletterProvider.csproj", "{5BDE9ECC-E45A-4816-A5B6-C388154AC9D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{A557C501-339B-4EE4-AFD8-D3AF50D84E9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5BDE9ECC-E45A-4816-A5B6-C388154AC9D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BDE9ECC-E45A-4816-A5B6-C388154AC9D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BDE9ECC-E45A-4816-A5B6-C388154AC9D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A557C501-339B-4EE4-AFD8-D3AF50D84E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A557C501-339B-4EE4-AFD8-D3AF50D84E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A557C501-339B-4EE4-AFD8-D3AF50D84E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A557C501-339B-4EE4-AFD8-D3AF50D84E9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
